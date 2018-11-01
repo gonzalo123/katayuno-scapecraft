@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "K\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "dev-master"
+  },
+  "scripts": {
+    "test": "phpunit"
+  }
+}
